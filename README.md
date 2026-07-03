@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Omar
 
-<!--
-**OmarJeghalef/OmarJeghalef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at George Mason University interested in software engineering, data analytics, machine learning, automation, and full-stack development.
 
-Here are some ideas to get you started:
+I enjoy building practical projects, working with real-world data, and creating tools that make tasks simpler and more efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+`Python` `Java` `SQL` `Data Analytics` `Machine Learning` `Full-Stack Development` `Automation`
+
+---
+
+Some contributions shown on this profile were generated for visual decoration and do not represent actual project work. Please refer to my public repositories for an accurate view of my work.
