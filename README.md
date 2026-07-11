@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Omar
 
-I'm a Computer Science student at George Mason University interested in **software engineering**, **data analytics**, **machine learning**, **automation**, and **full-stack development**.
-
-I enjoy building practical projects, working with real-world data, and creating tools that make tasks simpler and more efficient.
+I'm a Computer Science student at George Mason University interested in **software engineering**, **data analytics**, and **automation**. I enjoy building practical projects, working with real-world data, and creating tools that make tasks simpler and more efficient.
 
 ---
 
@@ -10,7 +8,7 @@ I enjoy building practical projects, working with real-world data, and creating 
 
 **Languages:** Python • Java • SQL
 
-**Focus Areas:** Software Engineering • Data Analytics • Machine Learning • Full-Stack Development • Automation
+**Focus Areas:** Software Engineering • Data Analytics • Automation
 
 ---
 
